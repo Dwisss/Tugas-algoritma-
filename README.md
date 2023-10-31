@@ -1,0 +1,2 @@
+# Tugas-algoritma-
+Tugas pertama 
